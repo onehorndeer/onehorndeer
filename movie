@@ -1,0 +1,9 @@
+<!doctype html>
+<html>
+ <head>
+ <title>동영상</title>
+ <iframe width="560" height="315" src="https://www.youtube.com/embed/BbcJwm33pEE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ 사이버 서울
+ <img src="pixels.png">
+ </head>
+</html>
